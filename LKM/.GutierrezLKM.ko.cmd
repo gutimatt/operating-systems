@@ -1,1 +1,0 @@
-cmd_/home/mrgutie8/CLionProjects/LKM/GutierrezLKM.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/mrgutie8/CLionProjects/LKM/GutierrezLKM.ko /home/mrgutie8/CLionProjects/LKM/GutierrezLKM.o /home/mrgutie8/CLionProjects/LKM/GutierrezLKM.mod.o;  true
