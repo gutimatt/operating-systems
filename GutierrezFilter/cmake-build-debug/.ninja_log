@@ -1,0 +1,12 @@
+# ninja log v5
+1	51	1649579162234438735	CMakeFiles/GutierrezFilter.dir/src/PixelProcessor.c.o	280b1b9fd9761c93
+1	30	1649542625926794460	build.ninja	737ee4b200ae49aa
+1	324	1649549430767351215	CMakeFiles/GutierrezFilter.dir/src/BmpProcessor.c.o	5741149f48fa70f9
+0	89	1649578835800768731	CMakeFiles/GutierrezFilter.dir/src/GutierrezFilters.c.o	e95313e314a539f0
+52	85	1649579162266437967	GutierrezFilter	d5feb1da8a3bf203
+0	84	1649579401501611214	CMakeFiles/GutierrezFilter.dir/src/GutierrezFilters.c.o	e95313e314a539f0
+84	128	1649579401553610257	GutierrezFilter	d5feb1da8a3bf203
+0	93	1649579413477389520	CMakeFiles/GutierrezFilter.dir/src/GutierrezFilters.c.o	e95313e314a539f0
+93	156	1649579413517388775	GutierrezFilter	d5feb1da8a3bf203
+0	72	1649579445348788160	CMakeFiles/GutierrezFilter.dir/src/GutierrezFilters.c.o	e95313e314a539f0
+72	116	1649579445396787243	GutierrezFilter	d5feb1da8a3bf203
